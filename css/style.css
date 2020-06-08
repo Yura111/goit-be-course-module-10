@@ -84,24 +84,12 @@ html {
   .header{
     padding-top:26px;
     padding-bottom: 230px;
-    background-image:-webkit-gradient(
-      liner,
-      left top,
-      left bottom,
-      from(rgba(243, 129, 129, 0.9))
-      to(rgba(252, 227, 138, 0.9))
-    ),
-    url(../img/Layer\ 15@1x.jpg);
-    background-image: -o-linear-gradient(
-      rgba(243, 129, 129, 0.9)
-      rgba(252, 227, 138, 0.9)
-    ),
-    url(../img/Layer\ 15@1x.jpg);
+    
     background-image: linear-gradient(
       rgba(243, 129, 129, 0.9),
       rgba(252, 227, 138, 0.9)
     ),
-    url(../img/Layer\ 15@1x.jpg);
+    url(../img/Layer\ 15.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -110,24 +98,12 @@ html {
   @media(min-resolution: 192dpi),
   (min-resolution:2dppx){
     .header{
-    background-image:-webkit-gradient(
-      liner,
-      left top,
-      left bottom,
-      from(rgba(243, 129, 129, 0.9))
-      to(rgba(252, 227, 138, 0.9))
-    ),
-    url(../img/Layer\ 15@2x-min.jpg);
-    background-image: -o-linear-gradient(
-      rgba(243, 129, 129, 0.9)
-      rgba(252, 227, 138, 0.9)
-    ),
-    url(../img/Layer\ 15@2x-min.jpg);
+    
     background-image: linear-gradient(
       rgba(243, 129, 129, 0.9),
       rgba(252, 227, 138, 0.9)
     ),
-    url(../img/Layer\ 15@2x-min.jpg);
+    url(../img/Layer\ 15@2x.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
