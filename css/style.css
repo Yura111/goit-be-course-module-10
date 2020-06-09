@@ -423,7 +423,7 @@ background-color: #f38181;
   opacity: 0;
 }
 .team__item-box:hover .team__item-overley{
-visibility: hidden;
+visibility: visible;
 opacity: 1;
 }
 .team__item-box:hover{
